@@ -20,7 +20,7 @@ How to improve our ability
 
 This concept struck a chord with me because I discovered that when I try things, I often get only so far before encountering a challenge and stopping. Behaving this way is all well and good when it comes to rock climbing, or judo, or kite surfing (a few of many activities I’ve failed to master), but when it comes to my work, it’s a problem.
 
-sources [Growth Mindest](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+sources: [Growth Mindest](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 --------------------------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 
-## *source*: [Markdown on GitHub](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
+source: [Markdown on GitHub](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
 
 --------------------------------------------------------------------------------------------
 
