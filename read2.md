@@ -21,5 +21,4 @@ To check settings, use the git config --list command.
 ## Stashing Changes
 When you are not ready to commit changes but do not want to lose them either, git stash is a great option. This command temporarily removes changes and hides them, giving you a clean working directory. When you are ready to continue working on the changes, simply use the git stash apply command to retrieve the hidden changes.
 
-source: [Git Tutorial: A Comprehensive Guide
-](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#6_9)
+source: [Git intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#6_9)
