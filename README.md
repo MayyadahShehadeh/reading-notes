@@ -1,4 +1,3 @@
-# reading-notes
 
 ##  **1. Mastering Markdown**
 ![markdown](https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)
