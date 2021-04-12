@@ -24,7 +24,7 @@ sources [Growth Mindest](https://www.atlassian.com/blog/inside-atlassian/growth-
 
 --------------------------------------------------------------------------------------------
 
-## 3. Basic writing and formatting syntax
+## 2. Markdown on GitHub
 Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 
 ### heading:
