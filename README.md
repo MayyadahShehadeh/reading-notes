@@ -5,7 +5,8 @@
 
 
 
-link : [3articles](https://mayyadahshehadeh.github.io/reading-notes/3articles)
-
+link : [GrowthMindest](https://mayyadahshehadeh.github.io/reading-notes/GrowthMindest)
+link : [GettingStartedwithGitHubPages](https://mayyadahshehadeh.github.io/reading-notes/GettingStartedwithGitHubPages)
+link : [MarkdownonGitHub](https://mayyadahshehadeh.github.io/reading-notes/MarkdownonGitHub)
 link2 : [read2](https://mayyadahshehadeh.github.io/reading-notes/read2)
 
