@@ -50,7 +50,7 @@ Chapter 8
 "   Quotation mark 
 £   Pound sign
 
-&copy; Source: [HTML & CSS Book](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01U4KQPKQB/html_css.pdf?c=1618329187-d711d572f1534bf2)
+&copy; Source: [HTML & CSS Book](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01U4KQPKQB/html_css.pdf?c=1618333476-d711d572f1534bf2)
 
 
 
