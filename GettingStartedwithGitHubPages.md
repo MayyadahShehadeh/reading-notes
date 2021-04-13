@@ -2,7 +2,7 @@
 
 
 
-# 3. Getting Started with GitHub Pages
+#  Getting Started with GitHub Pages
 
 ## What is GitHub?
 

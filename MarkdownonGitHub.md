@@ -1,5 +1,5 @@
 
-## 2. Markdown on GitHub
+## Markdown on GitHub
 Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 
 ### heading:
