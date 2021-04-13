@@ -1,7 +1,7 @@
 
 
 
-**Hi, My name is Mayyadah Shehadeh i'm 22 Years old, I have BA in Managament Information System from Al-Balqa Applied University.**
+**Hi, My name is Mayyadah Shehadeh i'm 22 Years old, I have BA in Managament Information Systems from Al-Balqa Applied University.**
 
 
 
