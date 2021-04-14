@@ -20,3 +20,4 @@ JavaScript is written in plain text, just like HTML and CSS, so you do not need 
 >- else {
 >- greeting = 'Welcome! ' ;
 >- document .write( ' < h3>' +greeting + ' </ h3> '); 
+### JAVASCRIPT RUNS WHERE IT IS FOUND IN THE HTML 
