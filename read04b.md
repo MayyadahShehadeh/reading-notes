@@ -6,4 +6,6 @@ as humans, we've always built tool to help us solve problems, overtime, people b
 
 there are input devices that take input from the outside world and convert it into binary information, there is memory to store this information, there is a central processing unit or CPU, where all the calculations are done. and, finally there are output devices that take information and convert it into a physical output.
 ## Hardware and Software: 
-when you look inside a computing device you see a bunch of circuits, chips, wires, 
+when you look inside a computing device you see a bunch of circuits, chips, wires, speakers, and all sorts of other stuff, this is the hardware, but what you don't see is the software, software is all of the computer programs, of code, running on this machine, software can be anything from apps and games to webpages and the data science software.
+
+&copy; source; [How Computers Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
