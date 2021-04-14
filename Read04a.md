@@ -9,14 +9,14 @@ This is where we can change how the page behaves, adding interactivity. We will 
 ## CREATING A BASIC JAVASCRIPT : 
 JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script. This example adds a greeting into an HTML page. The greeting changes depending on the time of day. 
 > var today= new Date();
-var hourNow = today.getHours();
-var greeting;
-if (hourNow > 18) {
-greeting= 'Good evening!';
-else if (hourNow > 12) {
-greeting = ' Good afternoon!';
-else if (hourNow > 0) {
-greeting = 'Good morni ng!';
-else {
-greeting = 'Welcome! ' ;
-document .write( ' <h3>' +greeting + ' </ h3> '); 
+>var hourNow = today.getHours();
+>var greeting;
+>if (hourNow > 18) {
+>greeting= 'Good evening!';
+>else if (hourNow > 12) {
+>greeting = ' Good afternoon!';
+>else if (hourNow > 0) {
+>greeting = 'Good morni ng!';
+>else {
+>greeting = 'Welcome! ' ;
+>document .write( ' <h3>' +greeting + ' </ h3> '); 
