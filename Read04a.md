@@ -20,9 +20,12 @@ JavaScript is written in plain text, just like HTML and CSS, so you do not need 
 >- greeting = 'Good morni ng!';
 >- else {
 >- greeting = 'Welcome! ' ;
->- document .write( ' < h3>' +greeting + ' </ h3> '); 
+>- document .write( ' < h3>' +greeting + ' </ h3> ');
+
 ### JAVASCRIPT RUNS WHERE IT IS FOUND IN THE HTML 
+
 When you put the script tag inside the body it will rin inside the body, and if you put it after the footer tag in will run there.
+
 ## WHAT IS A VARIABLE? 
 > A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
 
@@ -32,3 +35,5 @@ When you put the script tag inside the body it will rin inside the body, and if 
 the area of a rectangle is obtained by multiplying two
 numbers:
 > width x height = area 
+
+&copy; Source: [javascript and jquery interactiv Book](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01TTSXQT5M/javascript_and_jquery_interactive_jon_du.pdf?c=1618418988-21b29523d81fd117)
