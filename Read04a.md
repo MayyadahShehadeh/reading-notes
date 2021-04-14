@@ -1,4 +1,5 @@
 # Dynamic web pages with JavaScript
+![2](https://blogjob.com/trmeson/files/2019/08/JavaScript-code-410x370.jpg)
 ## HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER :
 - ### < html> CONTENT LAYER . html files 
 This is where the content of the page lives. The HTML gives the page structure and adds semantics. 
