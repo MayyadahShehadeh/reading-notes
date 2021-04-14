@@ -1,4 +1,5 @@
 # How Computers Work?
+![how computer work](https://1.bp.blogspot.com/-vwS_zV2aarU/XP4MwO9YWdI/AAAAAAAAACI/blloDz6NS1AqC3Xyx7kBYBuGFQns8_HsQCLcBGAs/s1600/computer_work.jpg)
 Everywhere you look, Computers are changing the world, whether they're on our desktops, in our homes, our pockets; or anywhere else. but while most of us use this revolutionary technology daily, we don't often ask:'How do computers work?" 
 ## What  makes a computer, a computer? 
 as humans, we've always built tool to help us solve problems, overtime, people began to wonder if  machine could be designe and built to help us with the thinking work we do, rather than moving or manipulating physical things like dirt and stone.
