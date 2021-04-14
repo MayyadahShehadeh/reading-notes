@@ -21,3 +21,13 @@ JavaScript is written in plain text, just like HTML and CSS, so you do not need 
 >- greeting = 'Welcome! ' ;
 >- document .write( ' < h3>' +greeting + ' </ h3> '); 
 ### JAVASCRIPT RUNS WHERE IT IS FOUND IN THE HTML 
+When you put the script tag inside the body it will rin inside the body, and if you put it after the footer tag in will run there.
+## WHAT IS A VARIABLE? 
+> A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
+
+> When you write JavaScript, you have to tell the interpreter every individual step that you want it to perform. This sometimes involves more detail than you might expect.
+
+>Think about calculating the area of a wall; in math
+the area of a rectangle is obtained by multiplying two
+numbers:
+> width x height = area 
