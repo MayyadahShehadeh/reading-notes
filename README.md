@@ -12,4 +12,4 @@
 | 2 | [GettingStartedwithGitHubPages](https://mayyadahshehadeh.github.io/reading-notes/GettingStartedwithGitHubPages)|
 | 3 | [MarkdownonGitHub](https://mayyadahshehadeh.github.io/reading-notes/MarkdownonGitHub) |
 | 4 | [read2](https://mayyadahshehadeh.github.io/reading-notes/read2) |
-|5|[Read04a](https://mayyadahshehadeh.github.io/reading-notes/Read04a)|
+|5 | [Read04a](https://mayyadahshehadeh.github.io/reading-notes/Read04a)|
