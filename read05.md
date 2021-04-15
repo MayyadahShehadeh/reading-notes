@@ -3,10 +3,10 @@
 ###  EVALUATING CONDIRIONS:
 you can evaluate a situation by comparing one value in the cript to what you expect it might be. The result will be a Boolean: true or false.
 
-> #### "==" ---> IS EQUAL TO  | "!=" ---> IS NOT EQUAL TO|
->#### "===" ---> SRTICT EQUAL TO  | "!==" ---> SRTICT NOT EQUAL TO
-> #### ">" ---> GREATER THAN | "<" ---> LESS THAN 
-> #### ">=" ---> GREATER THAN OR EQUAL TO | " <=" ---> LESS THAN OR EQUAL TO 
+>  "==" ---> IS EQUAL TO  | "!=" ---> IS NOT EQUAL TO|
+> "===" ---> SRTICT EQUAL TO  | "!==" ---> SRTICT NOT EQUAL TO
+>  ">" ---> GREATER THAN | "<" ---> LESS THAN 
+>  ">=" ---> GREATER THAN OR EQUAL TO | " <=" ---> LESS THAN OR EQUAL TO 
 # lOGICAL OPERATORS:
 Comparison operators usually return single values of TRUE of False . Logical operators allow you to compare the results of more than one comparison operator.
 ### Example: 
@@ -32,4 +32,4 @@ if you don't know how many times the code should run, you can use a WHILE loop. 
 =======
 ### 1- EVALUATING CONDIRIONS:
 YOU CAN EVALUATE A SITUATION 
->>>>>>> 9d512ea142280302e1b95fd7e21402cd0bfcb520
+
