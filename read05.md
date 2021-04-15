@@ -1,4 +1,5 @@
 # COMPARISON OPERATORS :
+<<<<<<< HEAD
 ###  EVALUATING CONDIRIONS:
 you can evaluate a situation by comparing one value in the cript to what you expect it might be. The result will be a Boolean: true or false.
 
@@ -28,3 +29,7 @@ if you don't know how many times the code should run, you can use a WHILE loop. 
 
 
 
+=======
+### 1- EVALUATING CONDIRIONS:
+YOU CAN EVALUATE A SITUATION 
+>>>>>>> 9d512ea142280302e1b95fd7e21402cd0bfcb520
