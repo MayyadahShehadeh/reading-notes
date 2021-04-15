@@ -6,7 +6,7 @@ you can evaluate a situation by comparing one value in the cript to what you exp
 > - "===" ---> SRTICT EQUAL TO  | "!==" ---> SRTICT NOT EQUAL TO
 > -  ">" ---> GREATER THAN | "<" ---> LESS THAN 
 > - ">=" ---> GREATER THAN OR EQUAL TO | " <=" ---> LESS THAN OR EQUAL TO 
-# lOGICAL OPERATORS:
+# LOGICAL OPERATORS:
 Comparison operators usually return single values of TRUE of False . Logical operators allow you to compare the results of more than one comparison operator.
 ### Example: 
 > ((5<2) && (2>=3))
@@ -31,6 +31,7 @@ if you don't know how many times the code should run, you can use a WHILE loop. 
 
 ### - FOR:
 if you need to run code a specific number of times, use FOR look. (it is the most common loop.) in a FOR loop, the condition is usually a counter which is used to tell how many times the loop should run.
+
 > for(var 1 = 0; i < 10; i++ ) {
   document.write(i);
 }
