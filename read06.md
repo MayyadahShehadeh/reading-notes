@@ -20,7 +20,9 @@ To create a function, you give it a name and then write the statements needed to
 ## CALLIN A FUNCTION
 
 Having declared the function, you can then execute all of the statements between its curly braces with just one line of code. This is known as calling the function.
+
 >sayHello();
+
 ------
 
 *** &copy; Source:*** 
