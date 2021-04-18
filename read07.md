@@ -21,3 +21,19 @@ and forms.
 
 Chapter 11
 # COLOR 
+#### Foreground Color
+The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:
+- rgb values
+-  hex codes
+- color names
+Example:
+
+> /* color name */
+h1 {
+color: **DarkCyan**;}
+/* hex code */
+h2 {
+color: **#ee3e80**;}
+/* rgb value */
+p {
+color: **rgb(100,100,90)**;}
