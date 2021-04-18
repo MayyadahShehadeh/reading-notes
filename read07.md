@@ -37,3 +37,11 @@ color: **#ee3e80**;}
 /* rgb value */
 p {
 color: **rgb(100,100,90)**;}
+
+## Understanding Color
+Every color on a computer screen is created by mixing amounts of red, green, and blue. To find the color you want you can use a color picker.
+![rgp](https://tutorial.techaltum.com/images/css-colors.jpg)
+
+>Computer monitors are made up of thousands of tiny squares called pixels (if you look very closely at your monitor you should be able to see them). When the screen is not turned on, it's black because it's not emitting any light. When it's on, each pixel can be a different color, creating a picture. The color of every pixel on the screen is expressed in terms of a mix of red, green, and blue  just like on a television screen.
+
+ ***&copy; Source :*** [Html & Css Book](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01UFL40J3G/html_css.pdf?c=1618730957-b5c25d53b1555484)

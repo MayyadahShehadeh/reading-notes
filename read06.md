@@ -6,5 +6,8 @@ Being able to change the content of an HTML page while it is loaded in the brows
 - Modify the content of the page
 - Program rules or instructions the browser can follow
 - React to events triggered by the user or browser
-## SKETCHING OUT THE TASKS IN A FLOWCHART 
-Often scripts will need to perform different tasks in different situations. You can use flowcharts to work out how the tasks fit together. he flowcharts show the paths between each step. 
+
+To approach writing a script, break down your goal into
+a series of tasks and then work out each step needed
+to complete that task (a flowchart can help).
+
