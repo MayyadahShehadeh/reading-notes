@@ -1,3 +1,6 @@
+# OPERATORS
+![RELATINAL](https://i.ytimg.com/vi/wFB-ywsNPwg/maxresdefault.jpg)
+![LOGICAL](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Logical-Operator.png)
 # WHAT IS A FUNCTION? 
 Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). 
 
@@ -20,7 +23,9 @@ To create a function, you give it a name and then write the statements needed to
 ## CALLIN A FUNCTION
 
 Having declared the function, you can then execute all of the statements between its curly braces with just one line of code. This is known as calling the function.
+
 >sayHello();
+
 ------
 
 *** &copy; Source:*** 
