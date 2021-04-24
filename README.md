@@ -22,9 +22,10 @@
 
 
 # Code 201 Reading Notes: 
+
 | Numbers | links|
 |------|------|
-| 1| [1](1) |
+| 1| [1](https://mayyadahshehadeh.github.io/reading-notes/) |
 | 2 | [2]()|
 | 3 | [3]() |
 | 4 | [4]() |
