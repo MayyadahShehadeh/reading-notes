@@ -20,3 +20,22 @@
 |10 | [read07](https://mayyadahshehadeh.github.io/reading-notes/read07)|
 |11| [read09](https://mayyadahshehadeh.github.io/reading-notes/read09)|
 
+
+# Code 201 Reading Notes: 
+| Numbers | links|
+|------|------|
+| 1| []() |
+| 2 | []()|
+| 3 | []() |
+| 4 | []() |
+| 5 | []() |
+|6 | []()|
+|7| []()|
+|8 | []()|
+|9 | []()|
+|10 | []()|
+|11| []()|
+|12| []()|
+|13 | []()|
+|14 | []()|
+|15| []()|
