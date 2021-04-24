@@ -18,6 +18,9 @@ software like:
 - Visual Studio Code
 - Atom,
 - Brackets
+<<<<<<< HEAD
+- and Sublime Text
+=======
 - and Sublime Text
 # Linux Tutorial
 ## Linux Tutorial - 1. The Command Line
@@ -42,3 +45,4 @@ The command ***ls*** which we have seen in the previous section will not list hi
 
 &copy; Mayadah
 
+>>>>>>> af8add45deaae65134b55b75a0a3f5f5ea46a797
