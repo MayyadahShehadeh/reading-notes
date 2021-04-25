@@ -26,8 +26,8 @@
 
 | Numbers | links|
 |------|------|
-| link 1| [class-01](https://mayyadahshehadeh.github.io/reading-notes/class-01) |
-| link 2 | [class-01](https://mayyadahshehadeh.github.io/reading-notes/class-02)|
+| link 1| [class01](https://mayyadahshehadeh.github.io/reading-notes/class01) |
+| link 2 | [class02](https://mayyadahshehadeh.github.io/reading-notes/class02)|
 | link 3 | [3]() |
 | link 4 | [4]() |
 | link 5 | [5]() |
