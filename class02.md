@@ -16,7 +16,7 @@ HTML has six "levels" of headings:
 - <*del*> : element can show text that has been deleted from it.
 - <*s*> : t indicates something that is no longer accurate or relevant (but that should not be deleted).
 
-# CSS Associates Style rules with HTML elements
+## CSS Associates Style rules with HTML elements
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
 
 
@@ -30,7 +30,7 @@ CSS works by associating rules with HTML elements. These rules govern how the co
 --------------------------------
 
 
-# Java Script
+## Java Script
 
 ## Basic JavaScript Instructions
 
@@ -63,14 +63,14 @@ Boolean data types can have one of two values: true or false.
 #### 3- All variables are case sensitive, so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases.
 
 
-# COMPARISON OPERATORS :
+## COMPARISON OPERATORS :
 
 ###  EVALUATING CONDIRIONS:
 you can evaluate a situation by comparing one value in the cript to what you expect it might be. The result will be a Boolean: true or false.
 
-# LOGICAL OPERATORS:
+## LOGICAL OPERATORS:
 Comparison operators usually return single values of TRUE of False . Logical operators allow you to compare the results of more than one comparison operator.
-### Example: 
+Example: 
 > ((5<2) && (2>=3))
 
 
