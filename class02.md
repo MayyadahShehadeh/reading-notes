@@ -14,7 +14,7 @@ HTML has six "levels" of headings:
 ## Author Details 
 - <*address*> : to containvcontact details for the author of the page
 - <*del*> : element can show text that has been deleted from it.
-- <*s*> : t indicates something that is no longer accurate or relevant (but that should not be deleted).
+- <*s*> : indicates something that is no longer accurate or relevant (but that should not be deleted).
 
 ## CSS Associates Style rules with HTML elements
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
@@ -28,8 +28,6 @@ CSS works by associating rules with HTML elements. These rules govern how the co
 - **Declarations** indicate how the elements referred to in the selector should be styled. Declarations are split into two parts (a property and a value), and are separated by a colon.
 
 --------------------------------
-
-
 ## Java Script
 
 ## Basic JavaScript Instructions
