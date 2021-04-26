@@ -1,4 +1,4 @@
-# HTML & CSS $ JavaScript
+# HTML & CSS & JavaScript
 ## 1. HTML & CSS :
 ### - Ordered Lists
 <*ol*> : The ordered list is created with the <*ol*> element.
