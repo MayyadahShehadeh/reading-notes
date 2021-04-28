@@ -39,7 +39,7 @@ The color property allows you to specify the color of text inside an element. Yo
 
 ![](https://slideplayer.com/slide/14463197/90/images/3/TYPEFACE+TERMINOLOGY+SERIF+SANS-SERIF+MONOSPACE.jpg)
  
- #### - font-size
+ ### - font-size
 The font-size property enables you to specify a size for the font. There are several ways to specify the size of a font. The most common are:
 - pixels
 - percentages
