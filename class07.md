@@ -33,13 +33,13 @@ The function can be used to create multiple objects. The this keyword is used in
 
 >this.name = name;
 
->th i s.rooms = rooms;
+>this.rooms = rooms;
 
 >this.booked = booked;
 
 >this.checkAvailability = functio n()
 
->return this . rooms - this.booked;
+>return this.rooms - this.booked;
 
 >} ;
 
