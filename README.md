@@ -36,7 +36,7 @@
 |link 8 | [class08](https://mayyadahshehadeh.github.io/reading-notes/class08)|
 |link 9 | [class09](https://mayyadahshehadeh.github.io/reading-notes/class09)|
 |link 10 | [class10](https://mayyadahshehadeh.github.io/reading-notes/class10)|
-|link 11| [11]()|
+|link 11| [class11](https://mayyadahshehadeh.github.io/reading-notes/class11)|
 |link 12 | [12]()|
 |link 13 | [13]()|
 |link 14 | [14]()|
