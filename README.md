@@ -38,6 +38,6 @@
 |link 10 | [class10](https://mayyadahshehadeh.github.io/reading-notes/class10)|
 |link 11| [class11](https://mayyadahshehadeh.github.io/reading-notes/class11)|
 |link 12 | [class12](https://mayyadahshehadeh.github.io/reading-notes/class12)|
-|link 13 | [13]()|
+|link 13 | [class13](https://mayyadahshehadeh.github.io/reading-notes/class13)|
 |link 14 | [14]()|
 |link 15| [15]()|
