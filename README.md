@@ -57,7 +57,7 @@
 | link 4 | [read4](https://mayyadahshehadeh.github.io/reading-notes/read44) |
 | link 5 | [read5](https://mayyadahshehadeh.github.io/reading-notes/read55) |
 |link 6 | [read6](https://mayyadahshehadeh.github.io/reading-notes/read66)|
-|link 7| [7]()|
+|link 7| [read7](https://mayyadahshehadeh.github.io/reading-notes/read77)|
 |link 8 | [8]()|
 |link 9 | [9]()|
 |link 10 | [10]()|
