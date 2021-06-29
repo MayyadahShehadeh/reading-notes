@@ -51,14 +51,14 @@
 
 | Numbers | links|
 |------|------|
-| link 1| [read1](https://mayyadahshehadeh.github.io/reading-notes/read11) |
-| link 2 | [read2](https://mayyadahshehadeh.github.io/reading-notes/read22)|
-| link 3 | [read3](https://mayyadahshehadeh.github.io/reading-notes/read33) |
-| link 4 | [read4](https://mayyadahshehadeh.github.io/reading-notes/read44) |
-| link 5 | [read5](https://mayyadahshehadeh.github.io/reading-notes/read55) |
-|link 6 | [read6](https://mayyadahshehadeh.github.io/reading-notes/read66)|
-|link 7| [read7](https://mayyadahshehadeh.github.io/reading-notes/read77)|
-|link 8 | [read8](https://mayyadahshehadeh.github.io/reading-notes/read88)|
+| link 1| [read1](https://mayyadahshehadeh.github.io/reading-notes/read301/read11) |
+| link 2 | [read2](https://mayyadahshehadeh.github.io/reading-notes/read301/read22)|
+| link 3 | [read3](https://mayyadahshehadeh.github.io/reading-notes/read301/read33) |
+| link 4 | [read4](https://mayyadahshehadeh.github.io/reading-notes/read301/read44) |
+| link 5 | [read5](https://mayyadahshehadeh.github.io/reading-notes/read301/read55) |
+|link 6 | [read6](https://mayyadahshehadeh.github.io/reading-notes/read301/read66)|
+|link 7| [read7](https://mayyadahshehadeh.github.io/reading-notes/read301/read77)|
+|link 8 | [read8](https://mayyadahshehadeh.github.io/reading-notes/read301/read88)|
 |link 9 | [9]()|
 |link 10 | [10]()|
 |link 11| [11]()|
