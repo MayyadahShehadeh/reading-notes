@@ -60,7 +60,7 @@
 |link 7| [read7](https://mayyadahshehadeh.github.io/reading-notes/read301/read77)|
 |link 8 | [read8](https://mayyadahshehadeh.github.io/reading-notes/read301/read88)|
 |link 9 | [read9](https://mayyadahshehadeh.github.io/reading-notes/read301/read99)|
-|link 10 | [10](https://mayyadahshehadeh.github.io/reading-notes/read301/read10)|
+|link 10 | [read10](https://mayyadahshehadeh.github.io/reading-notes/read301/read10)|
 |link 11| [11]()|
 |link 12 | [12]()|
 |link 13 | [13]()|
