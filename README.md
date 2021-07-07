@@ -64,7 +64,7 @@
 |link 11| [read11](https://mayyadahshehadeh.github.io/reading-notes/read301/read111)|
 |link 12 | [read12](https://mayyadahshehadeh.github.io/reading-notes/read301/read12)|
 |link 13 | [read13](https://mayyadahshehadeh.github.io/reading-notes/read301/read13)|
-|link 14 | [14]()|
+|link 14 | [read14](https://mayyadahshehadeh.github.io/reading-notes/read301/read14)|
 |link 15 | [15]()|
 
 
