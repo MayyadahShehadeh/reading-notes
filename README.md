@@ -1,7 +1,7 @@
 
 
 &nbsp;
-## Hi, My name is Mayyadah Shehadeh i'm 22 Years old, I have BA in Managament Information Systems from Al-Balqa Applied University.**
+## Hi :wave: , My name is Mayyadah Shehadeh i'm 22 Years old, I have BA in Managament Information Systems from Al-Balqa Applied University and my passion in programming. 
 
 --------------------------------------
 
@@ -10,80 +10,81 @@
 
 
 
-## - Reading-Notes of Code 102 - Intro to Software Development :
+## Reading-Notes for Code 102 - Intro to Software Development :
 
-| Numbers | links|
+| Numbers | Links|
 |------|------|
 | 1| [GrowthMindest](https://mayyadahshehadeh.github.io/reading-notes/read102/GrowthMindest) |
 | 2 | [GettingStartedwithGitHubPages](https://mayyadahshehadeh.github.io/reading-notes/read102/GettingStartedwithGitHubPages)|
 | 3 | [MarkdownonGitHub](https://mayyadahshehadeh.github.io/reading-notes/read102/MarkdownonGitHub) |
-| 4 | [read2](https://mayyadahshehadeh.github.io/reading-notes/read102/read2) |
-| 5 | [read3](https://mayyadahshehadeh.github.io/reading-notes/read102/read3) |
-|6 | [Read04a](https://mayyadahshehadeh.github.io/reading-notes/read102/Read04a)|
-|7| [read04b](https://mayyadahshehadeh.github.io/reading-notes/read102/read04b)|
-|8 | [read05](https://mayyadahshehadeh.github.io/reading-notes/read102/read05)|
-|9 | [read06](https://mayyadahshehadeh.github.io/reading-notes/read102/read06)|
-|10 | [read07](https://mayyadahshehadeh.github.io/reading-notes/read102/read07)|
-|11| [read09](https://mayyadahshehadeh.github.io/reading-notes/read102/read09)|
+| 4 | [Git Tutorial: A Comprehensive Guide](https://mayyadahshehadeh.github.io/reading-notes/read102/read2) |
+| 5 | [Process and design ](https://mayyadahshehadeh.github.io/reading-notes/read102/read3) |
+|6 | [Dynamic web pages with JavaScript](https://mayyadahshehadeh.github.io/reading-notes/read102/Read04a)|
+|7| [How Computers Work?](https://mayyadahshehadeh.github.io/reading-notes/read102/read04b)|
+|8 | [COMPARISON OPERATORS AND LOOPS](https://mayyadahshehadeh.github.io/reading-notes/read102/read05)|
+|9 | [WHAT IS A FUNCTION?](https://mayyadahshehadeh.github.io/reading-notes/read102/read06)|
+|10 | [Introducing CSS](https://mayyadahshehadeh.github.io/reading-notes/read102/read07)|
+|11| [Choosing A Text Editor](https://mayyadahshehadeh.github.io/reading-notes/read102/read09)|
 
 
-## - Reading-Notes of Code 201 - Foundations of Software Development:
+## Reading-Notes for Code 201 - Foundations of Software Development:
+
+| Numbers | Links|
+|------|------|
+|  1| [ Introductory HTML and JavaScript](https://mayyadahshehadeh.github.io/reading-notes/read201/class01) |
+|  2 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://mayyadahshehadeh.github.io/reading-notes/read201/class02)|
+|  3 | [HTML Lists, Control Flow with JS, and the CSS Box Model](https://mayyadahshehadeh.github.io/reading-notes/read201/class03) |
+|  4 | [HTML Links, CSS Layout, JS Functions](https://mayyadahshehadeh.github.io/reading-notes/read201/class04) |
+|  5 | [Images, Color, Text, and More Work With Functions](https://mayyadahshehadeh.github.io/reading-notes/read201/class05) |
+| 6 | [JS Object Literals, The DOM](https://mayyadahshehadeh.github.io/reading-notes/read201/class06)|
+| 7| [Object-Oriented Programming, HTML Tables](https://mayyadahshehadeh.github.io/reading-notes/read201/class07)|
+| 8 | [CSS Layout](https://mayyadahshehadeh.github.io/reading-notes/read201/class08)|
+|9 | [Forms and JS Events](https://mayyadahshehadeh.github.io/reading-notes/read201/class09)|
+|10 | [JS Debugging](https://mayyadahshehadeh.github.io/reading-notes/read201/class10)|
+|11| [Audio, Video, Images](https://mayyadahshehadeh.github.io/reading-notes/read201/class11)|
+|12 | [Chart.js, Canvas](https://mayyadahshehadeh.github.io/reading-notes/read201/class12)|
+|13 | [HTML5 Storage](https://mayyadahshehadeh.github.io/reading-notes/read201/class13)|
+|14 | [Read14a](https://mayyadahshehadeh.github.io/reading-notes/read201/read14a)|
+|15 | [Read14b](https://mayyadahshehadeh.github.io/reading-notes/read201/read14b)|
+
+## Reading-Notes for Code 301 - Intermediate Software Development:
 
 | Numbers | links|
 |------|------|
-| link 1| [read01](https://mayyadahshehadeh.github.io/reading-notes/read201/class01) |
-| link 2 | [read02](https://mayyadahshehadeh.github.io/reading-notes/read201/class02)|
-| link 3 | [read03](https://mayyadahshehadeh.github.io/reading-notes/read201/class03) |
-| link 4 | [read04](https://mayyadahshehadeh.github.io/reading-notes/read201/class04) |
-| link 5 | [read05](https://mayyadahshehadeh.github.io/reading-notes/read201/class05) |
-|link 6 | [read06](https://mayyadahshehadeh.github.io/reading-notes/read201/class06)|
-|link 7| [read07](https://mayyadahshehadeh.github.io/reading-notes/read201/class07)|
-|link 8 | [read08](https://mayyadahshehadeh.github.io/reading-notes/read201/class08)|
-|link 9 | [read09](https://mayyadahshehadeh.github.io/reading-notes/read201/class09)|
-|link 10 | [read10](https://mayyadahshehadeh.github.io/reading-notes/read201/class10)|
-|link 11| [read11](https://mayyadahshehadeh.github.io/reading-notes/read201/class11)|
-|link 12 | [read12](https://mayyadahshehadeh.github.io/reading-notes/read201/class12)|
-|link 13 | [read13](https://mayyadahshehadeh.github.io/reading-notes/read201/class13)|
-|link 14 | [read14a](https://mayyadahshehadeh.github.io/reading-notes/read201/read14a)|
-|link 15 | [read14b](https://mayyadahshehadeh.github.io/reading-notes/read201/read14b)|
-
-## - Reading-Notes of Code 301 - Intermediate Software Development:
-
-| Numbers | links|
-|------|------|
-| link 1| [read1](https://mayyadahshehadeh.github.io/reading-notes/read301/read11) |
-| link 2 | [read2](https://mayyadahshehadeh.github.io/reading-notes/read301/read22)|
-| link 3 | [read3](https://mayyadahshehadeh.github.io/reading-notes/read301/read33) |
-| link 4 | [read4](https://mayyadahshehadeh.github.io/reading-notes/read301/read44) |
-| link 5 | [read5](https://mayyadahshehadeh.github.io/reading-notes/read301/read55) |
-|link 6 | [read6](https://mayyadahshehadeh.github.io/reading-notes/read301/read66)|
-|link 7| [read7](https://mayyadahshehadeh.github.io/reading-notes/read301/read77)|
-|link 8 | [read8](https://mayyadahshehadeh.github.io/reading-notes/read301/read88)|
-|link 9 | [read9](https://mayyadahshehadeh.github.io/reading-notes/read301/read99)|
-|link 10 | [read10](https://mayyadahshehadeh.github.io/reading-notes/read301/read10)|
-|link 11| [read11](https://mayyadahshehadeh.github.io/reading-notes/read301/read111)|
-|link 12 | [read12](https://mayyadahshehadeh.github.io/reading-notes/read301/read12)|
-|link 13 | [read13](https://mayyadahshehadeh.github.io/reading-notes/read301/read13)|
-|link 14 | [read14](https://mayyadahshehadeh.github.io/reading-notes/read301/read14)|
-|link 15 | [15]()|
+|  1| [Introduction to React and Components](https://mayyadahshehadeh.github.io/reading-notes/read301/read11) |
+|  2 | [State and Props](https://mayyadahshehadeh.github.io/reading-notes/read301/read22)|
+|  3 | [Passing Functions as Props](https://mayyadahshehadeh.github.io/reading-notes/read301/read33) |
+|  4 | [React and Forms](https://mayyadahshehadeh.github.io/reading-notes/read301/read44) |
+|  5 | [Putting it all together](https://mayyadahshehadeh.github.io/reading-notes/read301/read55) |
+| 6 | [NODE.JS](https://mayyadahshehadeh.github.io/reading-notes/read301/read66)|
+| 7| [REST](https://mayyadahshehadeh.github.io/reading-notes/read301/read77)|
+| 8 | [APIs](https://mayyadahshehadeh.github.io/reading-notes/read301/read88)|
+| 9 | [FUNCTIONAL PROGRAMMING](https://mayyadahshehadeh.github.io/reading-notes/read301/read99)|
+| 10 | [In memory storage](https://mayyadahshehadeh.github.io/reading-notes/read301/read10)|
+| 11| [	Authentication](https://mayyadahshehadeh.github.io/reading-notes/read301/read111)|
+| 12 | [Mongo and Mongoose](https://mayyadahshehadeh.github.io/reading-notes/read301/read12)|
+| 13 | [CRUD](https://mayyadahshehadeh.github.io/reading-notes/read301/read13)|
+| 14 | [Diversity & Inclusion in the Tech Industry](https://mayyadahshehadeh.github.io/reading-notes/read301/read14)|
 
 
-## - Reading-Notes of Code 401 - Advanced Software Development :
+
+## - Reading-Notes for Code 401 - Advanced Software Development :
 
 | Numbers | links|
 |------|------|
-| link 1| [1]() |
-| link 2 | [2]()|
-| link 3 | [3]() |
-| link 4 | [4]() |
-| link 5 | [5]() |
-|link 6 | [6]()|
-|link 7| [7]()|
-|link 8 | [8]()|
-|link 9 | [9]()|
-|link 10 | [10]()|
-|link 11| [11]()|
-|link 12 | [12]()|
-|link 13 | [13]()|
-|link 14 | [14]()|
-|link 15 | [15]()|
+| prep: Reading| [link](https://mayyadahshehadeh.github.io/reading-notes/read401/PrepReading.md) |
+|  1| [1]() |
+|  2 | [2]()|
+|  3 | [3]() |
+|  4 | [4]() |
+|  5 | [5]() |
+| 6 | [6]()|
+| 7| [7]()|
+| 8 | [8]()|
+| 9 | [9]()|
+| 10 | [10]()|
+| 11| [11]()|
+| 12 | [12]()|
+| 13 | [13]()|
+| 14 | [14]()|
+| 15 | [15]()|
