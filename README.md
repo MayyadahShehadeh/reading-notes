@@ -1,11 +1,11 @@
 
 
 &nbsp;
-## Hi :wave: , My name is Mayyadah Shehadeh i'm 22 Years old, I have BA in Managament Information Systems from Al-Balqa Applied University and my passion in programming. 
+## Hi :wave: , My name is Mayyadah Shehadeh i'm 22 Years old, I have BA in Managament Information Systems from Al-Balqa Applied University and my passion is in programming. :two_hearts:
 
 --------------------------------------
 
-# This is reading and summarizing the books and notes Website in GitHub:
+# This is reading and summarizing the books and notes Websites in GitHub:
 
 
 
@@ -72,7 +72,7 @@
 
 | Numbers | links|
 |------|------|
-| prep: Reading| [link](https://mayyadahshehadeh.github.io/reading-notes/read401/PrepReading.md) |
+| prep: Reading| [link](https://mayyadahshehadeh.github.io/reading-notes/read401/PrepReading) |
 |  1| [1]() |
 |  2 | [2]()|
 |  3 | [3]() |
