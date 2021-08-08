@@ -68,13 +68,13 @@
 
 
 
-## - Reading-Notes for Code 401 - Advanced Software Development :
+## Reading-Notes for Code 401 - Advanced Software Development :
 
 | Numbers | links|
 |------|------|
 | prep: Reading| [link](https://mayyadahshehadeh.github.io/reading-notes/read401/PrepReading) |
-|  1| [1]() |
-|  2 | [2]()|
+|  1| [read 01](https://mayyadahshehadeh.github.io/reading-notes/read401/read01) |
+|  2 | [read 02](https://mayyadahshehadeh.github.io/reading-notes/read401/read02)|
 |  3 | [3]() |
 |  4 | [4]() |
 |  5 | [5]() |
