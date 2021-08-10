@@ -75,7 +75,7 @@
 | prep: Reading| [link](https://mayyadahshehadeh.github.io/reading-notes/read401/PrepReading) |
 |  1| [read 01](https://mayyadahshehadeh.github.io/reading-notes/read401/read01) |
 |  2 | [read 02](https://mayyadahshehadeh.github.io/reading-notes/read401/read02)|
-|  3 | [3]() |
+|  3 | [read 03](https://mayyadahshehadeh.github.io/reading-notes/read401/read03) |
 |  4 | [4]() |
 |  5 | [5]() |
 | 6 | [6]()|
