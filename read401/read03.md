@@ -1,8 +1,10 @@
+## Express REST API
+
 ### 1. Name 3 real world use cases where you’d want to change the request with custom middleware
 application server middleware, message-oriented middleware, web middleware
 
 ### 2. True or false: The route handler is middleware?
-false , hey are not middleware functions by definition. If such function is used on routing methods then they are only handler functions. We use such a handler function which is not a middleware when it is the only one callback function.
+false , they are not middleware functions by definition. If such function is used on routing methods then they are only handler functions. We use such a handler function which is not a middleware when it is the only one callback function.
 
  Middleware functions are functions that have access to the request object (req), the response object (res), and the next middleware function in the application’s request-response cycle. The next function is a function in the Express router which, when invoked, executes the middleware succeeding the current middleware
 
@@ -24,7 +26,7 @@ when a server tries to send more than one response to a client. What this means 
 
 **Request Object:** is the main entry point for an application to issue a request to the Library - all operations on a URL must use a Request object. The request object is application independent in that both servers and clients use the same Request class.
 
-**Response Object:** One of the most important objects in ASP is the Response object. It is the object which communicates between the server and the output which is sent to the client. ... DLL, parsing it so that instead of the client seeing <% Response.
+**Response Object:** One of the most important objects in ASP is the Response object. It is the object which communicates between the server and the output which is sent to the client.
 
 **Application Middleware:** Bind application-level middleware to an instance of the app object by using the app.use() and app.METHOD() functions, where METHOD is the HTTP method of the request that the middleware function handles (such as GET, PUT, or POST) in lowercase.
 
