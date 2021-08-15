@@ -78,7 +78,7 @@
 |  3 | [read 03](https://mayyadahshehadeh.github.io/reading-notes/read401/read03) |
 |  4 | [read 04](https://mayyadahshehadeh.github.io/reading-notes/read401/read04) |
 |  5 | [read 05](https://mayyadahshehadeh.github.io/reading-notes/read401/read05) |
-| 6 | [6]()|
+| 6 | [read 06](https://mayyadahshehadeh.github.io/reading-notes/read401/read06)|
 | 7| [7]()|
 | 8 | [8]()|
 | 9 | [9]()|
