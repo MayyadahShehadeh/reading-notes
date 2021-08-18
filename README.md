@@ -82,7 +82,7 @@
 | 7| [read 07](https://mayyadahshehadeh.github.io/reading-notes/read401/read07)|
 | 8 | [read 08](https://mayyadahshehadeh.github.io/reading-notes/read401/read08)|
 | 9 | [read 09](https://mayyadahshehadeh.github.io/reading-notes/read401/read09)|
-| 10 | [10]()|
+| 10 | [read 10](https://mayyadahshehadeh.github.io/reading-notes/read401/read10)|
 | 11| [11]()|
 | 12 | [12]()|
 | 13 | [13]()|
