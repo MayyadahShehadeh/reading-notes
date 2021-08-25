@@ -77,14 +77,14 @@
 |  2 | [read 02](https://mayyadahshehadeh.github.io/reading-notes/read401/read02)|
 |  3 | [read 03](https://mayyadahshehadeh.github.io/reading-notes/read401/read03) |
 |  4 | [read 04](https://mayyadahshehadeh.github.io/reading-notes/read401/read04) |
-|  5 | [read 05](https://mayyadahshehadeh.github.io/reading-notes/read401/read05) |
+|  5 | [Linked Lists](https://mayyadahshehadeh.github.io/reading-notes/read401/read05) |
 | 6 | [read 06](https://mayyadahshehadeh.github.io/reading-notes/read401/read06)|
 | 7| [read 07](https://mayyadahshehadeh.github.io/reading-notes/read401/read07)|
 | 8 | [read 08](https://mayyadahshehadeh.github.io/reading-notes/read401/read08)|
 | 9 | [read 09](https://mayyadahshehadeh.github.io/reading-notes/read401/read09)|
-| 10 | [read 10](https://mayyadahshehadeh.github.io/reading-notes/read401/read10)|
+| 10 | [Stacks and Queues](https://mayyadahshehadeh.github.io/reading-notes/read401/read10)|
 | 11| [read 11](https://mayyadahshehadeh.github.io/reading-notes/read401/read11)|
 | 12 | [read 12](https://mayyadahshehadeh.github.io/reading-notes/read401/read12)|
 | 13 | [read 13](https://mayyadahshehadeh.github.io/reading-notes/read401/read13)|
 | 14 | [read 14](https://mayyadahshehadeh.github.io/reading-notes/read401/read14)|
-| 15 | [15]()|
+| 15 | [Trees](https://mayyadahshehadeh.github.io/reading-notes/read401/read15)|
