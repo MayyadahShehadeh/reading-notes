@@ -89,4 +89,6 @@
 | 14 | [read 14](https://mayyadahshehadeh.github.io/reading-notes/read401/read14)|
 | 15 | [Trees](https://mayyadahshehadeh.github.io/reading-notes/read401/read15)|
 | 16 | [read 16 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read16)|
+| 17 | [read 17 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read17)|
+
 
