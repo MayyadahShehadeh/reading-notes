@@ -90,5 +90,7 @@
 | 15 | [Trees](https://mayyadahshehadeh.github.io/reading-notes/read401/read15)|
 | 16 | [read 16 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read16)|
 | 17 | [read 17 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read17)|
+| 18 | [read 18 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read18)|
+
 
 
