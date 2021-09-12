@@ -52,7 +52,8 @@ React doesn’t require using JSX, but most people find it helpful as a visual a
 ### Embedding Expressions in JSX
 In the example below, we declare a variable called name and then use it inside JSX by wrapping it in curly braces:
 
-<code>const name = 'Josh Perez';
+<code>
+const name = 'Josh Perez';
 
 const element = <h11> Hello, {name} <//h1>;
 
@@ -61,4 +62,5 @@ ReactDOM.render(
 element,
 
 document.getElementById('root')
-);</code>
+);
+</code>
