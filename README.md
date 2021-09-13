@@ -94,4 +94,5 @@
 | 19 | [read 19 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read19)|
 | 26 | [read 26 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read26)|
 | 27 | [read 27 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read27)|
+| 28 | [read 28 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read28)|
 
