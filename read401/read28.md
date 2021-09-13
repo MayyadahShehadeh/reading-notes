@@ -1,17 +1,17 @@
 ## useEffect() Hook
 
-### * If we wanted a component to show up on every page, where would we put it and why?
+### If we wanted a component to show up on every page, where would we put it and why?
 
-- Inside a <Route />
+- Inside a <**Route /**>
 
-### * What does routing do with the components that were rendered when a new route is requested
+### What does routing do with the components that were rendered when a new route is requested
 Routing is the ability to move between different parts of an application when a user enters a URL or clicks an element (link, button, icon, image etc) within the application.
 
-### * What does props.children contain?
+### What does props.children contain?
 what this.props.children does is that it is used to display whatever you include between the opening and closing tags when invoking a component.
 
 
-### * How do useState() and this.setState() differ?
+### How do useState() and this.setState() differ?
 - setState() Class Component
 Since state in a class component is already an object, it's business as usual. Use setState to populate the values of the state object.
 
