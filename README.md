@@ -95,4 +95,5 @@
 | 26 | [read 26 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read26)|
 | 27 | [read 27 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read27)|
 | 28 | [read 28 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read28)|
+| 29 | [read 29 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read29)|
 
