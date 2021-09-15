@@ -22,6 +22,10 @@ The basic idea of a hashtable is the ability to store the key into this data str
 
 Since we are able to hash our key and determine the exact location where our value is stored, we can do a lookup in an O(1) time complexity. This is ideal when quick lookups are required.
 
+### Hash function
+
+A hash function is any function that can be used to map a data set of an arbitrary size to a data set of a fixed size, which falls into the hash table. The values returned by a hash function are called hash values, hash codes, hash sums, or simply hashes.
+
 ### Internal Methods
 **Add()**
 When adding a new key/value pair to a hashtable:
