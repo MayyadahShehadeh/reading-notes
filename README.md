@@ -97,4 +97,5 @@
 | 28 | [read 28 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read28)|
 | 29 | [read 29 ](https://mayyadahshehadeh.github.io/reading-notes/read401/read29)|
 | 30 | [Hash Tables](https://mayyadahshehadeh.github.io/reading-notes/read401/read30)|
+| 31 | [read 31](https://mayyadahshehadeh.github.io/reading-notes/read401/read31)|
 
