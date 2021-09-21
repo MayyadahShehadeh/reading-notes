@@ -99,4 +99,5 @@
 | 30 | [Hash Tables](https://mayyadahshehadeh.github.io/reading-notes/read401/read30)|
 | 31 | [read 31](https://mayyadahshehadeh.github.io/reading-notes/read401/read31)|
 | 32 | [read 32](https://mayyadahshehadeh.github.io/reading-notes/read401/read32)|
+| 33 | [read 33](https://mayyadahshehadeh.github.io/reading-notes/read401/read33)|
 
