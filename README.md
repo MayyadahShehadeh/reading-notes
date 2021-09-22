@@ -100,4 +100,6 @@
 | 31 | [read 31](https://mayyadahshehadeh.github.io/reading-notes/read401/read31)|
 | 32 | [read 32](https://mayyadahshehadeh.github.io/reading-notes/read401/read32)|
 | 33 | [read 33](https://mayyadahshehadeh.github.io/reading-notes/read401/read33)|
+| 34 | [read 34](https://mayyadahshehadeh.github.io/reading-notes/read401/read34)|
+| 35 | [Graphs](https://mayyadahshehadeh.github.io/reading-notes/read401/read35)|
 
