@@ -105,3 +105,4 @@
 | 36 | [read 36](https://mayyadahshehadeh.github.io/reading-notes/read401/read36)|
 | 37 | [read 37](https://mayyadahshehadeh.github.io/reading-notes/read401/read37)|
 | 38 | [read 38](https://mayyadahshehadeh.github.io/reading-notes/read401/read38)|
+| 39 | [read 39](https://mayyadahshehadeh.github.io/reading-notes/read401/read39)|
